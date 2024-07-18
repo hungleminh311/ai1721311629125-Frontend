@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience.",
+        "title": "Drive Your Next Adventure with Our Premium Car Rentals"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Next Adventure with Our Premium Car Rentals",
+  "subtitle": "Professional Service. Reliable Vehicles. Unmatched Convenience."
+}
